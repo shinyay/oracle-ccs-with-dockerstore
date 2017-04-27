@@ -113,6 +113,7 @@ You use password which you checked in the docker log.
 Domain is created and run. This domain is very simple which is configured with just admin server only. So you can use this docker image for the base image and cusutomize it.
 
 ## Demo
+![demo](docs/images/demo.gif)
 
 ## Licence
 

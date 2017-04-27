@@ -157,7 +157,7 @@ Oracle and Docker certified official docker images are publish on **[Docker Stor
 この WebLogic Server の Docker イメージをベースイメージとして、アプリケーションデプロイ済みの環境や、可用性構成の環境、または Coherence や Database 統合した環境などのカスタマイズイメージの作成が簡単に出来そうです。
 
 ## Demo
-
+![demo](images/demo.gif)
 ## Licence
 
 Released under the [MIT license](https://gist.githubusercontent.com/shinyay/56e54ee4c0e22db8211e05e70a63247e/raw/44f0f4de510b4f2b918fad3c91e0845104092bff/LICENSE)
